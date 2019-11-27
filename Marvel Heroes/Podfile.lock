@@ -1,3 +1,24 @@
-PODFILE CHECKSUM: de6b7ed944092cb7a97681abc67aa3188c3f7ac6
+PODS:
+  - Alamofire (4.9.0)
+  - JGProgressHUD (2.0.4)
+  - SwiftHash (2.0.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - JGProgressHUD
+  - SwiftHash
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - JGProgressHUD
+    - SwiftHash
+
+SPEC CHECKSUMS:
+  Alamofire: afc3e7c6db61476cb45cdd23fed06bad03bbc321
+  JGProgressHUD: 62658b14e72cccf179efc7a13bcb54d30b92fc22
+  SwiftHash: 6d312abe61c8359bdef8d0093642f3a70b1c17ba
+
+PODFILE CHECKSUM: 8f9035b5948780cdf0eebeea870d2bb74a2d7584
 
 COCOAPODS: 1.5.3
